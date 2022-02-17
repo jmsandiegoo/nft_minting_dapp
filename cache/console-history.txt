@@ -1,0 +1,70 @@
+await contract.mint(1);
+const contract = await Contract.attach("0x90091e2b03203980b2577d5f3cdd63a880b0c314");
+const Contract = await ethers.getContractFactory("SheeshEyeNFT");
+const contract = await Contract.attach("0x90091e2b03203980b2577d5f3cdd63a880b0c314");
+await contract.mint(1);
+const contract = await Contract.attach("0x90091e2b03203980b2577d5f3cdd63a880b0c314");
+const Contract = await ethers.getContractFactory("SheeshEyeNFT");
+const contract = await Contract.attach("0x90091e2b03203980b2577d5f3cdd63a880b0c314");
+const Contract = await ethers.getContractFactory("SheeshEyeNFT");
+await contract.owner()
+await contract.owner(;
+await.contract.owner();
+const contract = await Contract.attach("0x90091e2b03203980b2577d5f3cdd63a880b0c314");
+const Contract = await ethers.getContractFactory("SheeshEyeNFT"); 
+contract.mint(1);
+await contract.owner();
+contract.owner();
+await contract.totalSupply();
+const contract = await Contract.attach("0x90091e2B03203980B2577d5f3CDd63a880B0C314");
+const Contract = await ethers.getContractFactory("SheeshEyeNFT");
+await contract.connect("0xEEcC6823e8F015b8f506CDb564EE991dD132B774").mint(1);
+contract.signer
+await contract.mint(1);
+contract.mint(1);
+contract.connect("0xEEcC6823e8F015b8f506CDb564EE991dD132B774");
+await contract.mint(1);
+await contract.mint(2);
+contract.mint(2);
+await contract.connect('0x86259ae71A8FB24a447E77DDe4A6C0aeea66420B');
+await contract.mint(0.05, 2);
+await contract.mint(2);
+const contract = bytecodE.attach("0xf2949326D20BBd61542c73E7841c058Fc4BBD5B0");
+const bytecodE = await ethers.getContractFactory("BoredEyeClubNFT");
+const bytecodee = await ethers.getContractFactory("BoredEyeClubNFT");
+const bytecodee = await ethers.getContractFactory("BordEyeClubNFT");
+const bytecode = await ethers.getContractFactory("BordEyeClubNFT");
+const bytecode = await ethers.getContractFactory
+await ethers.getSigner();
+await ethers.getSigner
+await ethers.provider.listAccounts()
+await ethers.provider
+npx hardhat run scripts/sample-script.js
+await contract.tokenURI(1);
+await contract.signer
+await contract.provider
+contract.address
+await contract.tokenURI(1);
+await contract.signer
+await contract.provider
+await contract
+contract.address
+.clear
+clear
+await contract.owner()
+await contract
+contract.interface
+.help
+await contract.connect(owner).owner();
+const owner = await ethers.getSigner();
+await contract.totalSupply();
+await contract.totalSupply()
+await contract.totalSupply
+await contract.owner
+await contract.owner()
+await contract.owner
+await contract.signer
+await contract.owner();
+contract
+const contract = beyc.attach("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+const beyc = await ethers.getContractFactory('BoredEyeClubNFT');
